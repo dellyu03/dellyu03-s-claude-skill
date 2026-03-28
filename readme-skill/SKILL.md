@@ -1,3 +1,9 @@
+---
+name: readme-skill
+description: Generate or update a README.md for the current project
+user-invocable: true
+---
+
 # readme-skill
 
 현재 프로젝트의 README.md를 생성하거나 업데이트할 때 사용하는 스킬입니다.
